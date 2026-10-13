@@ -1,0 +1,2 @@
+com.demo.dao.DaoImpl
+com.demo.metier.MetierImpl
